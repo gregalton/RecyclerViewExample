@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RecyclerViewExample</string>
+    <string name="cellHeadingPlaceholder">Heading</string>
+    <string name="cellDescriptionPlaceholder">Description</string>
+</resources>
